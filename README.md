@@ -4,9 +4,9 @@ Anil Sharma
 ============
 
 -------------------     ----------------------------
-1 MyAddress             anil.sharma@fosteringlinux.com
-New Delhi            https://www.linkedin.com/in/anil-sh
-India                +91 9811284880
+1 MyAddress          Mail: anil.sharma@fosteringlinux.com
+New Delhi            LinkedIn https://www.linkedin.com/in/anil-sh
+India                Mobile +91 9811284880
 -------------------     ----------------------------
 
 CAREER OBJECTIVE
